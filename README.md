@@ -9,8 +9,8 @@ Contributions are always welcome!
 
 ## Basics
 
-- [ ] Simple: [What happens when you type in ‘www.cnn.com’ in your browser?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser)
-- [ ] Detailed: [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when)
+- [x] Simple: [What happens when you type in ‘www.cnn.com’ in your browser?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser)
+- [x] Detailed: [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when)
 
 ## Linux
 
@@ -18,10 +18,10 @@ Contributions are always welcome!
 
 ### Boot Process
 
-- [ ] [An introduction to the Linux boot and startup processes](https://opensource.com/article/17/2/linux-boot-and-startup)
-- [ ] [What happens when we turn on computer?](https://www.cdn.geeksforgeeks.org/what-happens-when-we-turn-on-computer)
-- [ ] [What happens when we turn on computer?](https://leetcode.com/discuss/interview-question/125107/What-happens-when-we-turn-on-computer)
-- [ ] [From Power up to login prompt](http://www.scott-a-s.com/files/linux_boot.pdf)
+- [x] [An introduction to the Linux boot and startup processes](https://opensource.com/article/17/2/linux-boot-and-startup)
+- [x] [What happens when we turn on computer?](https://www.cdn.geeksforgeeks.org/what-happens-when-we-turn-on-computer)
+- [x] [What happens when we turn on computer?](https://leetcode.com/discuss/interview-question/125107/What-happens-when-we-turn-on-computer)
+- [x] [From Power up to login prompt](http://www.scott-a-s.com/files/linux_boot.pdf)
 
 ### Filesystem
 
@@ -33,7 +33,7 @@ Contributions are always welcome!
 
 ### Kernel
 
-- [ ] [Explain the basics of Linux kernel](http://learnlinuxconcepts.blogspot.com/2014/03/explain-basics-of-linux-kernel.html)
+- [x] [Explain the basics of Linux kernel](http://learnlinuxconcepts.blogspot.com/2014/03/explain-basics-of-linux-kernel.html)
 - [ ] [Kernel Space and User Space](http://learnlinuxconcepts.blogspot.com/2014/02/kernel-space-and-user-space.html)
 - [ ] [Linux Kernel Process Management](http://learnlinuxconcepts.blogspot.com/2014/03/process-management.html)
 - [ ] [Linux Addressing](http://learnlinuxconcepts.blogspot.com/2014/02/linux-addressing.html)
@@ -58,8 +58,8 @@ Contributions are always welcome!
 
 ## Networking
 
-- [ ] [The Internet explained from first principles](https://explained-from-first-principles.com/internet)
-- [ ] [Network protocols for anyone who knows a programming language](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
+- [x] [The Internet explained from first principles](https://explained-from-first-principles.com/internet)
+- [x] [Network protocols for anyone who knows a programming language](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
 - [ ] [Introduction to Linux interfaces for virtual networking](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking)
 - [ ] [Multi-tier load-balancing with Linux](https://vincent.bernat.ch/en/blog/2018-multi-tier-loadbalancer)
 - [ ] [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
@@ -67,7 +67,7 @@ Contributions are always welcome!
 
 ## Containers
 
-- [ ] [Introduction to Docker and Containers](http://container.training/intro-selfpaced.yml.html)
+- [x] [Introduction to Docker and Containers](http://container.training/intro-selfpaced.yml.html)
 - [ ] [Containers Patterns](https://l0rd.github.io/containerspatterns)
 - [ ] [Docker Container Anti Patterns](https://blog.couchbase.com/docker-container-anti-patterns/)
 - [ ] [Anti-Patterns When Building Container Images](https://jpetazzo.github.io/2021/11/30/docker-build-container-images-antipatterns)
@@ -83,7 +83,7 @@ Contributions are always welcome!
 - [ ] [47 Things To Become a Kubernetes Expert](https://ymmt2005.hatenablog.com/entry/k8s-things)
 - [ ] [Kubernetes Best Practices 101](https://github.com/diegolnasc/kubernetes-best-practices)
 - [ ] [15 Kubernetes Best Practices Every Developer Should Know](https://spacelift.io/blog/kubernetes-best-practices)
-- [ ] [THE KUBERNETES NETWORKING GUIDE](https://www.tkng.io)
+- [x] [THE KUBERNETES NETWORKING GUIDE](https://www.tkng.io)
 - [ ] [The life of a DNS query in Kubernetes](https://www.nslookup.io/learning/the-life-of-a-dns-query-in-kubernetes)
 
 ## Infrastructure as code / Configuration management
@@ -118,7 +118,7 @@ Contributions are always welcome!
 
 - [ ] [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
 - [ ] [Learning Azure](https://docs.microsoft.com/en-us/learn/azure/)
-- [ ] [Hands-On Training with GCP](https://cloud.google.com/training/badges)
+- [x] [Hands-On Training with GCP](https://cloud.google.com/training/badges)
 
 ## Programming
 
@@ -265,4 +265,3 @@ Contributions are always welcome!
 
 - [ ] [Site Reliability Engineering: Measuring and Managing Reliability](https://www.coursera.org/learn/site-reliability-engineering-slos)
 - [ ] [School of SRE](https://linkedin.github.io/school-of-sre)
-
