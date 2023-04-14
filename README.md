@@ -25,8 +25,8 @@ Contributions are always welcome!
 
 ### Filesystem
 
-- [ ] [Understanding Inodes](https://syedali.net/2015/02/08/understanding-inodes)
-- [ ] [Understand UNIX / Linux Inodes Basics with Examples](https://www.thegeekstuff.com/2012/01/linux-inodes)
+- [x] [Understanding Inodes](https://syedali.net/2015/02/08/understanding-inodes)
+- [x] [Understand UNIX / Linux Inodes Basics with Examples](https://www.thegeekstuff.com/2012/01/linux-inodes)
 - [ ] [Understanding proc filesystem](https://syedali.net/2013/08/20/understanding-proc-filesystem)
 - [ ] [Common Mount Options](https://syedali.net/2015/01/06/common-mount-options)
 - [ ] [Understanding Linux filesystems: ext4 and beyond](https://opensource.com/article/18/4/ext4-filesystem)
@@ -74,8 +74,8 @@ Contributions are always welcome!
 
 ## Kubernetes
 
-- [ ] [Deploying and Scaling Microservices with Docker and Kubernetes](http://container.training/kube-selfpaced.yml.html)
-- [ ] [Demystifying the Kubernetes Iceberg](https://asankov.dev/blog/2022/05/15/demystifying-the-kubernetes-iceberg-part-1)
+- [x] [Deploying and Scaling Microservices with Docker and Kubernetes](http://container.training/kube-selfpaced.yml.html)
+- [x] [Demystifying the Kubernetes Iceberg](https://asankov.dev/blog/2022/05/15/demystifying-the-kubernetes-iceberg-part-1)
 - [ ] [What happens when ... Kubernetes edition!](https://github.com/jamiehannaford/what-happens-when-k8s/blob/master/README.md)
 - [ ] [Kubernetes Production Patterns](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
 - [ ] [Kubernetes production best practices](https://learnk8s.io/production-best-practices)
@@ -89,14 +89,14 @@ Contributions are always welcome!
 ## Infrastructure as code / Configuration management
 
 - [ ] [Terraform](https://learn.hashicorp.com/terraform)
-- [ ] [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca)
+- [x] [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca)
 - [ ] [Ansible](https://github.com/leucos/ansible-tuto)
 - [ ] [Getting Started With Terraform on AWS](https://spacelift.io/blog/terraform-tutorial)
 - [ ] [Google Cloud: Best practices for using Terraform](https://cloud.google.com/docs/terraform/best-practices-for-terraform)
 
 ## Databases
 
-- [ ] [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases)
+- [x] [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases)
 - [ ] [7 Database Paradigms](https://youtu.be/W2Z7fbCLSTw)
 - [ ] [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
 - [ ] [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html)
@@ -110,7 +110,7 @@ Contributions are always welcome!
 
 ## CI/CD
 
-- [ ] [7 Pipeline Design Patterns for Continuous Delivery](https://www.singlestoneconsulting.com/blog/7-pipeline-design-patterns-for-continuous-delivery)
+- [x] [7 Pipeline Design Patterns for Continuous Delivery](https://www.singlestoneconsulting.com/blog/7-pipeline-design-patterns-for-continuous-delivery)
 - [ ] [CI/CD patterns](https://continuousdelivery.com/implementing/patterns)
 - [ ] [Six Strategies for Application Deployment](https://thenewstack.io/deployment-strategies)
 
@@ -152,7 +152,7 @@ Contributions are always welcome!
 
 ## System design
 
-- [ ] [SystemsExpert course from AlgoExpert](https://www.algoexpert.io/se/product)
+- [x] [SystemsExpert course from AlgoExpert](https://www.algoexpert.io/se/product)
 - [ ] [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
 - [ ] [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [ ] [Crack the System Design Interview](https://www.puncsky.com/blog/2016/02/14/crack-the-system-design-interview)
